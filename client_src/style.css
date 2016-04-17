@@ -1,0 +1,71 @@
+.layout {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+    line-height: 23px;
+}
+
+.header {
+    width: 100%;
+    margin: 50px 0;
+}
+
+.header-layout {
+    width: 800px;
+    margin: 0 auto;
+}
+
+.user-menu {
+    float: right;
+}
+.user-menu__name {
+    display: inline-block;
+}
+.user-menu__logout {
+    display: inline-block;
+
+    cursor: pointer;
+
+    color: #127287;
+
+    -webkit-user-select: none;
+            user-select: none;
+}
+
+.application-logo {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 30px;
+
+    display: inline-block;
+}
+
+.content {
+    width: 900px;
+    margin: 70px auto;
+}
+
+.posts-container {
+    width: 700px;
+}
+.posts-list__post {
+    margin-top: 30px;
+}
+.posts-container__post-title {
+    color: #127287;
+}
+
+.posts-container__navigation {
+    margin: 10px 0;
+}
+
+.posts-container__navigation-number {
+    display: inline-block;
+
+    margin-right: 8px;
+
+    cursor: pointer;
+
+    color: #127287;
+}
+.posts-container__navigation-number_selected {
+    color: black;
+}

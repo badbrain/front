@@ -1,0 +1,14 @@
+{
+  "name": "my-blog",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "badbrain <insoultime@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/badbrain/front",
+  "moduleType": [],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
